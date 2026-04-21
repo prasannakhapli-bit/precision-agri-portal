@@ -1,0 +1,31 @@
+{
+  "zones": [
+    {
+      "zoneId": "zone-1",
+      "zoneName": "North Field",
+      "sensorData": {
+        "soilMoisture": 28,
+        "temperature": 32,
+        "humidity": 45
+      }
+    },
+    {
+      "zoneId": "zone-2",
+      "zoneName": "South Field",
+      "sensorData": {
+        "soilMoisture": 55,
+        "temperature": 26,
+        "humidity": 60
+      }
+    },
+    {
+      "zoneId": "zone-3",
+      "zoneName": "East Field",
+      "sensorData": {
+        "soilMoisture": 18,
+        "temperature": 35,
+        "humidity": 40
+      }
+    }
+  ]
+}
