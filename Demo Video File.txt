@@ -1,0 +1,14 @@
+
+https://www.loom.com/share/6b0b688f1d3c4e3a970aa33d0ca746b9
+
+🌱 Precision Agriculture Portal — Project Brief
+Precision Agriculture Portal is a secure, full‑stack web application designed to help small‑scale farmers make better irrigation decisions using simple, explainable AI logic.
+The problem we address is that many farmers lack clear, actionable insights on when and how much to irrigate, often leading to water wastage or crop stress. Existing solutions are either too expensive, too complex, or operate as black‑box systems that farmers cannot understand or trust.
+Our solution visualizes farmland as multiple field zones, each with simulated sensor readings such as soil moisture, temperature, and humidity. For every zone, the system dynamically calculates an irrigation urgency score and classifies it into Normal, Monitor, or Action Required, along with a clear explanation of why that decision was made.
+Instead of opaque machine‑learning models, the system uses rule‑based, deterministic logic, making the AI transparent and farmer‑friendly. The platform is also weather‑aware, reducing irrigation urgency when rainfall is expected, and gracefully falling back in restricted enterprise environments.
+From a technical standpoint, the solution uses a React‑based dashboard, a Node.js backend, and JWT‑secured APIs, following real‑world cloud architecture. The design is lightweight, scalable, and suitable for low‑connectivity scenarios.
+Overall, Precision Agriculture Portal demonstrates how explainable AI, combined with secure and practical engineering, can deliver real‑world agricultural impact without unnecessary complexity.
+
+
+
+“This project provides farmers with transparent, secure, and explainable irrigation decisions using simple AI logic instead of black‑box models.”
